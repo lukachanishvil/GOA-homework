@@ -1,5 +1,6 @@
 import turtle
 
+
 # შექმნათ ფანჯარა
 screen = turtle.Screen()
 screen.bgcolor("white")  # ფონის ფერი
